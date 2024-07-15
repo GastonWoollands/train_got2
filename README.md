@@ -1,15 +1,8 @@
 # GPT-2 Model Training Repository
 
-This repository contains scripts and instructions for training a GPT-2 model using the Hugging Face Transformers library. The GPT-2 model can be fine-tuned on a custom dataset for various natural language processing tasks.
+This repository contains scripts and instructions for training a GPT-2 model from scratch using the paper parameters.
+The GPT-2 model can be fine-tuned on a custom dataset for various natural language processing tasks.
 Table of Contents
-
-    Overview
-    Requirements
-    Installation
-    Usage
-        Data Preparation
-        Training the Model
-    License
 
 ## Overview
 
