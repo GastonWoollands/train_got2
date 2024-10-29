@@ -16,8 +16,8 @@ Requirements
 ## Installation
 Clone the repository:
 
-    - git clone https://github.com/yourusername/gpt2-training.git
-    - cd gpt2-training
+    - git clone https://github.com/yourusername/train_gpt2_gw.git
+    - cd train_gpt2_gw
     - pip install -r requirements.txt
 
 ## Usage
